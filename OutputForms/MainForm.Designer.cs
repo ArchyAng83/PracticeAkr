@@ -72,7 +72,7 @@
             this.textBox1.Location = new System.Drawing.Point(242, 57);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(285, 132);
+            this.textBox1.Size = new System.Drawing.Size(285, 94);
             this.textBox1.TabIndex = 3;
             // 
             // button1
@@ -98,7 +98,7 @@
             this.textBox2.Location = new System.Drawing.Point(242, 293);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(285, 145);
+            this.textBox2.Size = new System.Drawing.Size(285, 87);
             this.textBox2.TabIndex = 6;
             // 
             // button2
@@ -124,9 +124,9 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(242, 218);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(138, 13);
+            this.label4.Size = new System.Drawing.Size(141, 13);
             this.label4.TabIndex = 9;
-            this.label4.Text = "Минимальный элемент :";
+            this.label4.Text = "Максимальный элемент :";
             // 
             // textBox3
             // 
