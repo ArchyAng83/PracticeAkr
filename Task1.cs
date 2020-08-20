@@ -16,7 +16,7 @@ namespace PracticeAkr
     */
 
 
-    class Task1
+    public class Task1
     {
         Random rnd = new Random();
         string path = "1.txt";
@@ -31,7 +31,7 @@ namespace PracticeAkr
             return arr;
         }
 
-        public void PrintArray(double[] arr)
+        public virtual void PrintArray(double[] arr)
         {
             for (int i = 0; i < arr.Length; i++)
             {
